@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div.container {
+    width: 970px;
+    margin: 0px auto;
+    text-align: center;
+    background-color: rgb(226, 225, 225);
+    border: 2px solid black; 
+    margin-top: 50px;   
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
+
+.btn {
+    background-color:#2671d3;
+	border: 1px solid black;
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration: none;
+    text-align: center;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+h1, p {
+    color:#2421c7;
+}
